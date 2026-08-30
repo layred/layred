@@ -34,15 +34,6 @@ class Developer:
                          Платформа алгоритмической торговли криптовалютами
 ```
 
-### Репозитории
-
-| Проект | Описание |
-|--------|----------|
-| [klines-streamer](https://github.com/vispar-tech/klines-streamer) | Агрегация сделок WebSocket → свечи |
-| [aiotrade](https://github.com/vispar-tech/aiotrade) | Асинхронные API-клиенты бирж |
-| [trade-sdk](https://github.com/vispar-tech/trade-sdk) | Торговый SDK на Rust |
-| [icon-kitchen-gitlab-sync](https://github.com/vispar-tech/icon-kitchen-gitlab-sync) | Синхронизация иконок GitLab |
-
 ---
 
 <p align="center">
